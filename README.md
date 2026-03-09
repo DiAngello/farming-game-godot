@@ -58,9 +58,9 @@ O objetivo é aprender conceitos de desenvolvimento de jogos como:
 <!-- BUILT WITH -->
 ### Tecnologias 🚀
 
-- **Godot Engine**
-- **GDScript**
-- **Git**
+- ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+- ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
