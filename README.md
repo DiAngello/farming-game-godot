@@ -2,11 +2,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/DiAngello/">
+  <a href="https://github.com/DiAngello/farming-game-godot">
     <img src="" alt="Logo" >
   </a>
 
-  <h3 align="center">Template para README de projetos</h3>
+  <h3 align="center">Farming Game</h3>
 
   <p align="center">
     Um template simples de README.
@@ -61,7 +61,7 @@
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/DiAngello/readme_template/.git
+   git clone https://github.com/DiAngello/farming-game-godot.git
    ```
 2. ...  
     
